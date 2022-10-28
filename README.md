@@ -1,4 +1,4 @@
-# Beautiful Hugo - An adaptation of the Beautiful Jekyll theme
+# Beautiful Hugo demo - An adaptation of the Beautiful Jekyll theme
 
 ![Beautiful Hugo Theme Screenshot](https://github.com/halogenica/beautifulhugo/blob/master/images/screenshot.png)
 
